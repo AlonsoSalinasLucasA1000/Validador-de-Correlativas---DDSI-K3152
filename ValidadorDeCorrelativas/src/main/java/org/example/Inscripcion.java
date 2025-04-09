@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Inscripcion
 {
-    private int numeroInscripcion;
+    private Integer numeroInscripcion;
     private List<Materia> materias;
     private Alumno alumno;
 
